@@ -1,0 +1,32 @@
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\bin\Debug\FolderExplorer+.exe.config
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\bin\Debug\FolderExplorer+.exe
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\bin\Debug\FolderExplorer+.pdb
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.csprojAssemblyReference.cache
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\MainWindow.g.cs
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\App.g.cs
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+_MarkupCompile.cache
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+_MarkupCompile.lref
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\MainWindow.baml
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.g.resources
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer_.Properties.Resources.resources
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.csproj.GenerateResource.cache
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.csproj.CoreCompileInputs.cache
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.exe
+C:\Users\Declan\Documents\Code Projects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.pdb
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\bin\Debug\FolderExplorer+.exe.config
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\bin\Debug\FolderExplorer+.exe
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\bin\Debug\FolderExplorer+.pdb
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.csprojAssemblyReference.cache
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\MainWindow.g.cs
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\App.g.cs
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+_MarkupCompile.cache
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+_MarkupCompile.lref
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\MainWindow.baml
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.g.resources
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer_.Properties.Resources.resources
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.csproj.GenerateResource.cache
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.csproj.CoreCompileInputs.cache
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.exe
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderExplorer+.pdb
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderControl.g.cs
+F:\Documents\CodeProjects\FolderExplorer+\FolderExplorer+\obj\Debug\FolderControl.baml
